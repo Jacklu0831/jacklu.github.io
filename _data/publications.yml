@@ -10,7 +10,7 @@ main:
     image: ./assets/img/teaser_example.png
     # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  - title: "Fibrosis-Net: A Tailored Deep Convolutional Neural Network Design for Prediction of Pulmonary Fibrosis Progression From Chest CT Images"
     authors: Alexander Wong, <strong>Jack Lu</strong>, Adam Dorfman, Paul McInnis, Mahmoud Famouri, Daniel Manary, James Ren Hou Lee, Michael Lynch
     # conference_short: CVPR
     conference: Frontiers in Artificial Intelligence, 2021
