@@ -1,7 +1,7 @@
 main:
 
   - title: "SceneControl: Diffusion for Controllable Traffic Scene Generation"
-    authors: <strong>Jack Lu</strong>*, Kelvin Wong*, Chris Zhang, Simon Suo, Raquel Urtasun
+    authors: <strong>Jack Lu</strong>*, <a href="https://www.cs.toronto.edu/~kelvinwong/">Kelvin Wong</a>*, <a href="https://czhang96.github.io/">Chris Zhang</a>, <a href="https://www.cs.toronto.edu/~suo/">Simon Suo</a>, <a href="https://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>
     # conference_short: ICRA
     conference: International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -11,7 +11,7 @@ main:
     # notes: Early Accept
 
   - title: "Fibrosis-Net: A Tailored Deep Convolutional Neural Network Design for Prediction of Pulmonary Fibrosis Progression From Chest CT Images"
-    authors: Alexander Wong, <strong>Jack Lu</strong>, Adam Dorfman, Paul McInnis, Mahmoud Famouri, Daniel Manary, James Ren Hou Lee, Michael Lynch
+    authors: <a href="https://www.eng.uwaterloo.ca/~a28wong/">Alexander Wong</a>, <strong>Jack Lu</strong>, <a href="https://www.linkedin.com/in/adam-dorfman/">Adam Dorfman</a>, <a href="https://paulmcinnis.github.io/">Paul McInnis</a>, <a href="https://scholar.google.com/citations?user=BO4hVXYAAAAJ&hl=en">Mahmoud Famouri</a>, <a href="https://www.linkedin.com/in/dmanary/">Daniel Manary</a>, <a href="https://dblp.uni-trier.de/pid/260/0169.html">James Ren Hou Lee</a>, <a href="https://www.linkedin.com/in/michaellynchphd/">Michael Lynch</a>
     # conference_short: CVPR
     conference: Frontiers in Artificial Intelligence, 2021
     pdf: https://arxiv.org/pdf/2103.04008.pdf
